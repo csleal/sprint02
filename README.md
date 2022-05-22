@@ -29,7 +29,7 @@ Caso houver algum problema na instalação do PyAudio, use o arquivo .whl deste 
 
 ## Vídeo demonstração
 
-[Link para o video youtube](https://www.youtube.com/watch?v=xva71wynxS0)
+[Link para o video youtube](https://youtu.be/OK-G20MUFow)
 
 
 ### Referências 
